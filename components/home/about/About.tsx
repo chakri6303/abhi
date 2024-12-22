@@ -13,9 +13,9 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-            I am Medisetti Sesha Venkata Rama Krishna, a B.Tech graduate in Electronics and Communication Engineering.
+            I am Abhipriya Pedasingu, a B.Tech student in Computer Science Engineering with a strong focus on programming and cloud technologies.
               <br/><br/>
-              With expertise in Android development, I&apos;ve built impactful mobile apps, excelling in frontend design and backend integration. My technical skills include Java, XML, Firebase, and Android SDK, with experience in modern APIs to optimize app functionality.</p>
+              I have earned certifications in Cloud Fundamentals and Data Analytics, which highlight my dedication to continuous learning.</p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
