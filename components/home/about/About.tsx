@@ -13,13 +13,14 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-            I am Medisetti Sesha Venkata Rama Krishna, a B.Tech graduate in Electronics and Communication Engineering.
+              I am Medisetti Sesha Venkata Rama Krishna, a B.Tech graduate in Electronics and Communication Engineering.
               <br/><br/>
-              With expertise in Android development, I&apos;ve built impactful mobile apps, excelling in frontend design and backend integration. My technical skills include Java, XML, Firebase, and Android SDK, with experience in modern APIs to optimize app functionality.</p>
+              With expertise in Android development, I&apos;ve built impactful mobile apps, excelling in frontend design and backend integration. My technical skills include Java, XML, Firebase, and Android SDK, with experience in modern APIs to optimize app functionality.
+            </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-            I&apos;ve developed projects like a Blood Donation App and Public News App, showcasing responsive UI/UX and real-time features. My passion for problem-solving and innovation drives me to create technology solutions that make a difference.
+              I&apos;ve developed projects like a Blood Donation App and Public News App, showcasing responsive UI/UX and real-time features. My passion for problem-solving and innovation drives me to create technology solutions that make a difference.
             </p>
           </Reveal>
           <Reveal>
