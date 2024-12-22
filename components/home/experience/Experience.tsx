@@ -16,10 +16,10 @@ const experience = [
   {
     title: "BAtalks Pvt Ltd",
     position: "Fullstack Developer",
-    time: "November 2024 - December 2024",
+    time: "October 2024 - December 2024",
     location: "Hyderabad,Telangana",
     description:
-      "Create functional, high-level, dynamic and reusable components based on mock-up given using Flask. Coordinated on team for QA, bug fixes, features and code refactoring.",
+      "I developed the Voice Memorize project for CA students, handling both frontend and backend development. I focused on creating a responsive design and efficient user management, utilizing technologies like HTML, CSS, and JavaScript. The project received positive feedback for its effectiveness.",
     tech: [
       "Flask",
       "CSS",

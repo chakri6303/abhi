@@ -14,9 +14,9 @@ export const Stats = () => {
           <div className={styles.statGrid}>
             {/* <span className="chip">Java</span> */}
             <span className="chip">Pyhton</span>
-            <span className="chip">XML</span>
+            {/* <span className="chip">XML</span> */}
             {/* <span className="chip">Firebase</span> */}
-            <span className="chip">GitHub</span>
+            <span className="chip">Git</span>
             <span className="chip">JavaScript</span>
             {/* <span className="chip">TypeScript</span> */}
             <span className="chip">HTML</span>
