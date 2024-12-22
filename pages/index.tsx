@@ -5,23 +5,23 @@ export default function home() {
   return (
     <>
       <Head>
-        <title>Rama Krishna| Android Developer</title>
+        <title>Abhi Priya| Fullstack Developer</title>
         <link rel="shortcut icon" href="/favicon.png" />
-        <meta name="description" content="Rama Krishna| Android Developer" />
+        <meta name="description" content="Abhi Priya| Fullstack Developer" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta property="og:title" content="Rama Krishna| Android Developer" />
-        <meta name="description" content="Hey! I'm Rama Krishna, and I'm a Bachelor of Technology graduate." />
+        <meta property="og:title" content="Abhi Priya| Fullstack Developer" />
+        <meta name="description" content="Hey! I'm Abhi Priya, and I'm a Bachelor of Technology graduate." />
 
-        <meta property="og:title" content="Rama Krishna| Android Developer" />
+        <meta property="og:title" content="Abhi Priya| Fullstack Developer" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="https://deverajc.com/" />
         <meta property="og:image" content="https://deverajc.com/screenshot.png" />
-        <meta property="og:description" content="Hey! I'm Rama Krishna, and I'm a Bachelor of Technology graduate." />
+        <meta property="og:description" content="Hey! I'm Abhi Priya, and I'm a Bachelor of Technology graduate." />
 
         <meta name="twitter:card" content="summary"/>
         <meta name="twitter:site" content="@jc_devz"/>
-        <meta name="twitter:title" content="Rama Krishna| Android Developerr"/>
-        <meta name="twitter:description" content="Hey! I'm Rama Krishna, and I'm a Bachelor of Technology graduate."/>
+        <meta name="twitter:title" content="Abhi Priya| Fullstack Developer"/>
+        <meta name="twitter:description" content="Hey! I'm Abhi Priya, and I'm a Bachelor of Technology graduate."/>
         <meta name="twitter:creator" content="@jc_devz"/>
         <meta name="twitter:image" content="https://deverajc.com/screenshot.png"/>
 

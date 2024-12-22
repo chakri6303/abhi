@@ -69,17 +69,17 @@ export const ProjectModal = ({
           <div className={styles.suppliedContent}>{modalContent}</div>
 
           <div className={styles.modalFooter}>
-            <p className={styles.linksText}>
+            {/* <p className={styles.linksText}>
               Project Links<span>.</span>
-            </p>
-            <div className={styles.links}>
+            </p> */}
+            {/* <div className={styles.links}>
               <Link target="_blank" rel="nofollow" href={code}>
                 <AiFillGithub /> source code
               </Link>
               <Link target="_blank" rel="nofollow" href={projectLink}>
                 <AiOutlineExport /> live project
               </Link>
-            </div>
+            </div> */}
           </div>
         </div>
       </motion.div>

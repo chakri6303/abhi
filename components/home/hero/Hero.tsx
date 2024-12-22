@@ -13,18 +13,18 @@ export const Hero = () => {
         <div className={styles.copyWrapper}>
           <Reveal>
             <h1 className={styles.title}>
-              Hi, I&apos;m Rama krishna<span>.</span>
+              Hi, I&apos;m Abhi Priya<span>.</span>
             </h1>
           </Reveal>
           <Reveal>
             <h2 className={styles.subTitle}>
-              I&apos;m an <span>Android Developer </span>
+              I&apos;m an <span>Full Stack Developer </span>
             </h2>
           </Reveal>
           <Reveal>
             <p className={styles.aboutCopy}>
-            Experienced Android Developer skilled in building innovative apps, optimizing performance, and enhancing user experiences.
-            I also create interesting self projects on my spare time. Let&apos;s connect!
+            
+Experienced Full Stack Developer skilled in building innovative web and mobile applications, optimizing performance, and enhancing user experiences. I also work on exciting personal projects during my spare time. Let&apos;s connect!
             </p>
           </Reveal>
           <Reveal>

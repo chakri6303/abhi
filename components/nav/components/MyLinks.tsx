@@ -41,7 +41,7 @@ export const MyLinks = () => {
           <AiFillGithub size="2.4rem" />
         </Link>
       </motion.span>
-
+{/* 
       <motion.span
         initial={{ y: -30, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
@@ -50,7 +50,7 @@ export const MyLinks = () => {
         <Link href="https://www.instagram.com/trynafind_chakri/" target="_blank" rel="nofollow">
           <AiFillInstagram size="2.4rem" />
         </Link>
-      </motion.span>
+      </motion.span> */}
 
       {/* <motion.span
         initial={{ y: -30, opacity: 0 }}
