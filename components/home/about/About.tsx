@@ -13,7 +13,9 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-            I am Abhipriya Pedasingu, a B.Tech student in Computer Science Engineering with a strong focus on programming and cloud technologies. I have earned certifications in Cloud Fundamentals and Data Analytics, which highlight my dedication to continuous learning.</p>
+            am Abhipriya Pedasingu, a B.Tech student in Computer Science Engineering with a strong focus on programming and cloud technologies.
+              <br/><br/>
+              I have earned certifications in Cloud Fundamentals and Data Analytics, which highlight my dedication to continuous learning.</p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
