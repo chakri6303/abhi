@@ -19,8 +19,7 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-            I&apos;ve developed projects like a Blood Donation App and Public News App, showcasing responsive UI/UX and real-time features. My passion for problem-solving and innovation drives me to create technology solutions that make a difference.
-            </p>
+            During my internship at BAtalks Pvt Ltd., I developed the Voice Memorize application, where I managed both frontend and backend tasks using HTML, CSS, JavaScript, and backend frameworks. give the matter for tsx            </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
