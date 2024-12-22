@@ -13,23 +13,22 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-            I am Abhipriya Pedasingu, a B.Tech student in Computer Science Engineering with a strong focus on programming and cloud technologies. I have earned certifications in Cloud Fundamentals and Data Analytics, which highlight my dedication to continuous learning.</p>
-          </Reveal>
-          <Reveal>
-            <p className={styles.aboutText}>
-            During my internship at BAtalks Pvt Ltd., I developed the "Voice Memorize" application, where I managed both frontend and backend tasks using HTML, CSS, JavaScript, and backend frameworks.</p>
-          </Reveal>
-          <Reveal>
-            <p className={styles.aboutText}>
-              When I&apos;m not coding, I enjoy digital painting. 
-              I believe that maintaining a healthy work-life balance is crucial for staying productive and motivated.
+              I am Abhipriya Pedasingu, a B.Tech student in Computer Science Engineering with a strong focus on programming and cloud technologies. I have earned certifications in Cloud Fundamentals and Data Analytics, which highlight my dedication to continuous learning.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I&apos;m always looking for new challenges and opportunities to learn and grow as a developer. 
-              If you&apos;re interested in working together or have any questions, please don&apos;t hesitate to get in touch!
-              🔗
+              During my internship at BAtalks Pvt Ltd., I developed the &quot;Voice Memorize&quot; application, where I managed both frontend and backend tasks using HTML, CSS, JavaScript, and backend frameworks.
+            </p>
+          </Reveal>
+          <Reveal>
+            <p className={styles.aboutText}>
+              When I&apos;m not coding, I enjoy digital painting. I believe that maintaining a healthy work-life balance is crucial for staying productive and motivated.
+            </p>
+          </Reveal>
+          <Reveal>
+            <p className={styles.aboutText}>
+              I&apos;m always looking for new challenges and opportunities to learn and grow as a developer. If you&apos;re interested in working together or have any questions, please don&apos;t hesitate to get in touch! 🔗
             </p>
           </Reveal>
           <Reveal>

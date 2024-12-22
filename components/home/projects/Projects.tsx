@@ -33,7 +33,7 @@ const projects = [
         Encryption techniques, such as homomorphic encryption, help secure data while allowing computations on it. Access control mechanisms ensure only authorized users can retrieve sensitive information.
         </p>
         <p>
-        Methods like Proof of Retrievability (PoR) verify data integrity without downloading the entire dataset. Privacy-preserving techniques, like data anonymization, protect user identities.
+        Methods like Proof of Retrievability verify data integrity without downloading the entire dataset. Privacy-preserving techniques, like data anonymization, protect user identities.
         </p>
         <p>
         Emerging technologies like hybrid cryptosystems and blockchain aim to further enhance security and efficiency in mobile cloud storage.
