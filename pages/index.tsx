@@ -14,7 +14,6 @@ export default function home() {
 
         <meta property="og:title" content="Abhi Priya| Fullstack Developer" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="https://deverajc.com/" />
         <meta property="og:image" content="https://deverajc.com/screenshot.png" />
         <meta property="og:description" content="Hey! I'm Abhi Priya, and I'm a Bachelor of Technology graduate." />
 
